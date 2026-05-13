@@ -1,0 +1,16 @@
+body {
+  background: lightblue;
+  font-family: Arial;
+  margin: 40px;
+}
+
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+div {
+  background: white;
+  padding: 15px;
+  margin: 15px;
+}
